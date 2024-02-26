@@ -74,8 +74,9 @@ hotel booking application on the internet.
 - Manage Bookings
 - Manage User
 - Manage Available Room
+- Dashboard
 ## User
-- Book Room
+- Book/Cancel Room
 - Create/Delete Account
 - Login/Logout
 
@@ -83,7 +84,7 @@ hotel booking application on the internet.
 <!-- Env Variables -->
 ### :key: Environment Variables
 
-To run this project, you will need to add the following environment variables to your  file
+To run this project, you will need to add the following environment variables to your application.properties file\\
 Check Application.properties to see more details
 [application.properties](https://github.com/LongHoangNguyenH/BookingApplication/blob/main/HotelBookingApp-Backend/src/main/resources/application.properties)
 
@@ -93,8 +94,8 @@ Check Application.properties to see more details
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This frontend project uses npm as package manager So you need to install nodejs and reactjs framework
-For backend we need Java installation, in my case it's jdk17
+This Frontend project uses npm as package manager => So you need to install nodejs and reactjs framework.
+For Backend we need Java installation, in my case it's jdk17
 
 <!-- Installation -->
 ### :gear: Installation
@@ -134,9 +135,9 @@ Start the client
   npm run dev
 ```
 
-Start the server
+Start the server 
 
-To start the server press `SHIFT + F10`
+To start the server (IDE: InteliJ IDEA) press `SHIFT + F10`
 
 <!-- License -->
 ## :warning: License
