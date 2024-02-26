@@ -69,20 +69,23 @@ hotel booking application on the internet.
 
 <!-- Features -->
 ### :dart: Features
-
-- Feature 1
-- Feature 2
-- Feature 3
+## Admin 
+- Mange Role (Create, Delete, Update)
+- Manage Bookings
+- Manage User
+- Manage Available Room
+## User
+- Book Room
+- Create/Delete Account
+- Login/Logout
 
 
 <!-- Env Variables -->
 ### :key: Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
+To run this project, you will need to add the following environment variables to your  file
+Check Application.properties to see more details
+[application.properties](https://github.com/LongHoangNguyenH/BookingApplication/blob/main/HotelBookingApp-Backend/src/main/resources/application.properties)
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
@@ -90,21 +93,19 @@ To run this project, you will need to add the following environment variables to
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This project uses npm as package manager
-<!--
-```bash
- npm install --global yarn
-```
--->
+This frontend project uses npm as package manager So you need to install nodejs and reactjs framework
+For backend we need Java installation, in my case it's jdk17
+
 <!-- Installation -->
 ### :gear: Installation
 
-Install application with npm
+Install dependencies of frontend application with npm
 
 ```bash
-  cd HotelBookingApp-Backend
+  cd HotelBookingApp-Frontend
   npm install
 ```
+Install dependencies of Backend application at [pom.xml](https://github.com/LongHoangNguyenH/BookingApplication/blob/main/HotelBookingApp-Backend/pom.xml)
 
 <!-- Run Locally -->
 ### :running: Run Locally
@@ -127,11 +128,15 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Start the client
 
 ```bash
-  yarn start
+  npm run dev
 ```
+
+Start the server
+
+To start the server press `SHIFT + F10`
 
 <!-- License -->
 ## :warning: License
