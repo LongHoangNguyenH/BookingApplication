@@ -18,10 +18,10 @@
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
+  * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
   * [Run Locally](#running-run-locally)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
@@ -39,6 +39,10 @@ hotel booking application on the internet.
 
 <div align="center"> 
   <img src="https://drive.google.com/file/d/1-hGAUbTfAYQM4_UYipm_7bOUDpWTAbmd/view?usp=drive_link" alt="screenshot" />
+</div>
+
+<div align="center">
+  ![screenshot](https://drive.google.com/file/d/1-hGAUbTfAYQM4_UYipm_7bOUDpWTAbmd/view?usp=drive_link)
 </div>
 
 
@@ -155,9 +159,6 @@ Project Link: [https://github.com/LongHoangNguyenH/BookingApplication](https://g
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
-
-Use this section to mention useful resources and libraries that you have used in your projects.
-
  - [React-icon](https://react-icons.github.io/react-icons/)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
