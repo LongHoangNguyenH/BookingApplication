@@ -3,9 +3,9 @@
   <h1>Hotel Booking Application</h1>
     
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://github.com/LongHoangNguyenH/BookingApplication/blob/main/README.md">Documentation</a>
   <span> · </span>
 </div>
 
