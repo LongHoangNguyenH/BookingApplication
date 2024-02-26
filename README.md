@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
   <h1>Hotel Booking Application</h1>
     
 <h4>
@@ -19,16 +18,11 @@
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
   * [Running Tests](#test_tube-running-tests)
   * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
@@ -37,13 +31,14 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-
+This project simulate a web application serve for booking hotel room. It's just a simple web application and I finished it by following some 
+hotel booking application on the internet.
 
 <!-- Screenshots -->
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="https://drive.google.com/file/d/1-hGAUbTfAYQM4_UYipm_7bOUDpWTAbmd/view?usp=drive_link" alt="screenshot" />
 </div>
 
 
