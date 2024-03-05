@@ -3,7 +3,7 @@
   <h1>Hotel Booking Application</h1>
     
 <h4>
-    <a href="">View Demo</a>
+    <a href="http://hotelbookingapp.s3-website-ap-southeast-2.amazonaws.com/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/LongHoangNguyenH/BookingApplication/blob/main/README.md">Documentation</a>
   <span> · </span>
