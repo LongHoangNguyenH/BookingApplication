@@ -38,7 +38,7 @@ hotel booking application on the internet.
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://imgur.com/KPHf88X" alt="screenshot" />
+  <img src="https://github.com/LongHoangNguyenH/BookingApplication/blob/main/screenshot.jpg" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
